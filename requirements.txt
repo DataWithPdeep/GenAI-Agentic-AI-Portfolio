@@ -1,0 +1,9 @@
+langchain
+langchain-groq
+python-dotenv
+langchain-mistralai
+langgraph
+streamlit
+sqlalchemy
+langserve
+langchain-nimble
